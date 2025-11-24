@@ -36,4 +36,8 @@ describe("Basic tests", () => {
   it("Should output 'Buzz' when input is 20", () => {
     assert.strictEqual(Convert(20), "Buzz");
   });
+
+  it("Should return the string 'FizzBuzz' if the number is a multiple of both three and five, e.g. 15", () => {
+    assert.strictEqual(Convert(15), "FizzBuzz");
+  });
 });
