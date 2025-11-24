@@ -22,5 +22,8 @@
   "main": "fizzbuzz.ts",
   "scripts": {
     "test": "node test.ts"
+  },
+  "dependencies": {
+    "@types/node": "^24.10.1"
   }
 }
