@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz code kata, see https://www.codurance.com/katas/fizzbuzz with new 2025 technology.",
+  "keywords": [
+    "FizzBuzz",
+    "fizz",
+    "buzz",
+    "fisbus"
+  ],
+  "homepage": "https://github.com/louiechristie/fizzbuzz#readme",
+  "bugs": {
+    "url": "https://github.com/louiechristie/fizzbuzz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiechristie/fizzbuzz.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Louie Christie",
+  "type": "module",
+  "main": "fizzbuzz.ts",
+  "scripts": {
+    "test": "node test.ts"
+  }
+}
