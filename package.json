@@ -21,7 +21,9 @@
   "type": "module",
   "main": "fizzbuzz.ts",
   "scripts": {
-    "test": "node test.ts"
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+
   },
   "dependencies": {
     "@types/node": "^24.10.1"

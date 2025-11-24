@@ -1,6 +1,6 @@
-const FizzBuzz = () => {
+const Convert = (number: number) => {
   return '1';
 }
 
-export default FizzBuzz
+export default Convert
 
