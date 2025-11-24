@@ -9,4 +9,7 @@ describe("Basic tests", () => {
   it("Should output '2' when input is 2", () => {
     assert.equal(Convert(2), '2' );
   })
+  it("Should output '4' when input is 4", () => {
+    assert.equal(Convert(4), '4' );
+  })
 })
