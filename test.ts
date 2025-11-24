@@ -12,6 +12,10 @@ describe("Basic tests", () => {
   it("Should output '4' when input is 4", () => {
     assert.strictEqual(Convert(4), '4' );
   })
+
+  it("Should output 'Fizz' when input is 3", () => {
+    assert.strictEqual(Convert(3), 'Fizz' );
+  })
 })
 
 describe("Type checking", () => {
