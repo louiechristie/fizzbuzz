@@ -44,4 +44,8 @@ describe("Basic tests", () => {
   it("Should return the string 'FizzBuzz' if the number is 30", () => {
     assert.strictEqual(Convert(30), "FizzBuzz");
   });
+
+  it("Should return the string 'FizzBuzz' if the number is 45", () => {
+    assert.strictEqual(Convert(45), "FizzBuzz");
+  });
 });
