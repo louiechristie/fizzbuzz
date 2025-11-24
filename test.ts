@@ -13,3 +13,9 @@ describe("Basic tests", () => {
     assert.equal(Convert(4), '4' );
   })
 })
+
+describe("Type checking", () => {
+  it("Should throw error if trying to convert a number that is not an integer", () => {
+    assert.throws(() => Convert(1.1), 'Error: Number is not a Safe Integer: ${1.1}' );
+  })
+})
