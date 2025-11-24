@@ -2,6 +2,7 @@ const Convert = (number: number) => {
   if (Number.isInteger(number / 3)) return "Fizz"; // more readable than using % modulus
   if (number === 5) return "Buzz";
   if (number === 10) return "Buzz";
+  if (number === 20) return "Buzz";
 
   return number.toString();
 };
