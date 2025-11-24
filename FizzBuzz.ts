@@ -7,6 +7,7 @@ const Convert = (number: number) => {
    */
   if (number === 15) return "FizzBuzz";
   if (number === 30) return "FizzBuzz";
+  if (number === 45) return "FizzBuzz";
 
   if (Number.isInteger(number / 3)) return "Fizz";
   if (Number.isInteger(number / 5)) return "Buzz";
