@@ -24,4 +24,8 @@ describe("Basic tests", () => {
   it("Should output 'Fizz' when input is 9", () => {
     assert.strictEqual(Convert(9), "Fizz");
   });
+
+  it("Should output 'Buzz' when input is 5", () => {
+    assert.strictEqual(Convert(5), "Buzz");
+  });
 });
