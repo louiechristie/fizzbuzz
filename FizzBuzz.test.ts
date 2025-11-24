@@ -40,4 +40,8 @@ describe("Basic tests", () => {
   it("Should return the string 'FizzBuzz' if the number is a multiple of both three and five, e.g. 15", () => {
     assert.strictEqual(Convert(15), "FizzBuzz");
   });
+
+  it("Should return the string 'FizzBuzz' if the number is 30", () => {
+    assert.strictEqual(Convert(30), "FizzBuzz");
+  });
 });
