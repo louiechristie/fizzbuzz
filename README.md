@@ -9,8 +9,23 @@ Experiment with new 2025 technology:
 
 Inspired by:
 
-<blockquote>
-  "It's 2025 and the node ecosystem is finally usable by default!" <br> - <cite>
-    User <strong>madeofpalk</strong> <a href="https://news.ycombinator.com/item?id=44930135">comment on YCombinator News</a>, 2025
-  </cite>
-</blockquote>
+<div>
+  <blockquote>
+    "It's 2025 and the node ecosystem is finally usable by default!" <br> - <cite>
+      User <strong>madeofpalk</strong> <a href="https://news.ycombinator.com/item?id=44930135">comment on YCombinator News</a>, 2025
+    </cite>
+  </blockquote>
+  <br>
+<div>
+
+# Time taken
+
+Time taken to do this Test Driven Development (TDD) style:
+
+- 24 Nov 2025 ~3 hours.
+  Expectation in a job interview (by most senior devs who don't use TDD)
+- < 5 minutes
+
+However, this maintainable code, refactorable with a high level of confidence.
+
+Could I do this in TDD style in < 5 mins with repeating/practicing the Kata? Should I try?
