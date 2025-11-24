@@ -49,3 +49,39 @@ describe("Basic tests", () => {
     assert.strictEqual(Convert(45), "FizzBuzz");
   });
 });
+
+describe("acceptance test", () => {
+  it("Should convert 1-15 correctly, based on example from specification", () => {
+    let expectedOutput = `1
+      2
+      Fizz
+      4
+      Buzz
+      Fizz
+      7
+      8
+      Fizz
+      Buzz
+      11
+      Fizz
+      13
+      14
+      FizzBuzz`;
+
+    const captureAllSequentialWhitespacesOfAnyKindRegex = /\s+/g;
+
+    // replace White Space With New Line
+    expectedOutput = expectedOutput.replace(
+      captureAllSequentialWhitespacesOfAnyKindRegex,
+      "\n"
+    );
+    let output = "";
+    const outputArray = [];
+    for (let i = 1; i <= 15; i++) {
+      outputArray.push(Convert(i));
+    }
+    output = outputArray.join("\n");
+
+    assert.strictEqual(output, expectedOutput);
+  });
+});
