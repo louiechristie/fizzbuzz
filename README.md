@@ -15,11 +15,11 @@ FizzBuzz code test [[2007]](https://imranontech.com/2007/01/24/using-fizzbuzz-to
 
 Experiment with new 2025 technology:
 
-1. **TypeScript running Natively in Node - for stopping data type bugs** available in node since v22.18.0 on Jul 31, 2025 [(v22.18.0 release notes)](https://nodejs.org/en/blog/release/v22.18.0)
-2. [**Node test runner**](https://nodejs.org/api/test.html#test-runner) - for self testing code, available in Node since v18.0.0 on 19 Apr 2022 [(v18.0.0 release notes)](https://nodejs.org/en/blog/release/v18.0.0)
-3. [**Prettier VS Code plugin for code formatting**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) available from April 13, 2017, officially available from Dec 19, 2019 [(v3.17.0 release notes)](https://github.com/prettier/prettier-vscode/releases/tag/v3.17.0)
-4. [**Microsoft Visual Studio Code (VS Code)**](https://code.visualstudio.com/) - **including built in IntelliSense code hinting**, released 29 Apr 2015 [(v1 release notes)](https://web.archive.org/web/20151009211114/http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx)
-5. **Test Driven Development for quality code without bugs** (also known as self testing code), official book publised 8 November 2002 [(1st Edition book)](https://archive.org/details/est-driven-development-by-example/test-driven-development-by-example/)
+1. **TypeScript running Natively in Node - for stopping data type bugs** available in node since v22.18.0 on **31 July 2025** [(v22.18.0 release notes)](https://nodejs.org/en/blog/release/v22.18.0)
+2. [**Node test runner**](https://nodejs.org/api/test.html#test-runner) - for self testing code, available in Node since v18.0.0 on **19 April 2022** [(v18.0.0 release notes)](https://nodejs.org/en/blog/release/v18.0.0)
+3. [**Prettier VS Code plugin for code formatting**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) officially available from **19 December 2019** [(v3.17.0 release notes)](https://github.com/prettier/prettier-vscode/releases/tag/v3.17.0)
+4. [**Microsoft Visual Studio Code (VS Code)**](https://code.visualstudio.com/) - **including built in IntelliSense code hinting**, released **29 April 2015** [(v1 release notes)](https://web.archive.org/web/20151009211114/http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx)
+5. **Test Driven Development for quality code without bugs** (also known as self testing code), official book publised **8 November 2002** [(1st Edition book)](https://archive.org/details/est-driven-development-by-example/test-driven-development-by-example/)
 
 # Time taken
 
