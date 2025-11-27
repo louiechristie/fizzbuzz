@@ -1,7 +1,5 @@
 # FizzBuzz
 
-FizzBuzz code Kata, see <https://www.codurance.com/katas/fizzbuzz>
-
 Inspired by:
 
 <div>
@@ -12,6 +10,8 @@ Inspired by:
   </blockquote>
   <br>
 <div>
+
+FizzBuzz code test [[2007]](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/) Code Kata [[1999? citation needed]](http://codekata.com/kata/codekata-how-it-started/) implemented using Test Driven Development [[2002]](https://web.archive.org/web/20151009211114/http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx) as proposed by Codurance [[2022]](https://www.codurance.com/katas/fizzbuzz)
 
 Experiment with new 2025 technology:
 
@@ -26,9 +26,13 @@ Experiment with new 2025 technology:
 Time taken to do this Test Driven Development (TDD) style:
 
 - 24 Nov 2025 ~3 hours.
-  Expectation in a job interview (by most senior devs who don't use TDD)
-- < 5 minutes
+
+Expectation in a job interview (by most senior devs who don't use TDD):
+
+- < 5 minutes ?
 
 However, this is maintainable code that is refactorable with a high level of confidence.
+
+## Open questions?
 
 Could I do this in TDD style in < 5 mins with repeating/practicing the Kata? Should I try?
