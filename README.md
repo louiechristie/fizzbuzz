@@ -11,7 +11,7 @@ Inspired by:
   <br>
 <div>
 
-FizzBuzz code test [[2007]](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/) Code Kata [[1999? citation needed]](http://codekata.com/kata/codekata-how-it-started/) implemented using Test Driven Development [[2002]](https://web.archive.org/web/20151009211114/http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx) as proposed by Codurance [[2022]](https://www.codurance.com/katas/fizzbuzz)
+FizzBuzz code test [[2007 pitch]](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/) [[2024 anti-pitch]](https://www.youtube.com/watch?v=lqHQ-7PWZfs&list=PLKhdPqmp9xC_1DkgQ9iB3qMhTUs51-jqt&index=1) Code Kata [[1999? date citation needed]](http://codekata.com/kata/codekata-how-it-started/) implemented using Test Driven Development [[2002]](https://web.archive.org/web/20151009211114/http://blogs.msdn.com/b/vscode/archive/2015/04/29/announcing-visual-studio-code-preview.aspx) as proposed by Codurance [[2022]](https://www.codurance.com/katas/fizzbuzz)
 
 Experiment with new 2025 technology:
 
